@@ -1,9 +1,9 @@
 {
-    "name": "by-blog",
-    "title": "BY Blog",
-    "author": "BY <qiubaiyingios@163.com>",
+    "name": "秋刀鱼",
+    "title": "秋刀鱼的小屋",
+    "author": "秋刀鱼 <in_2.14@163.com>",
     "version": "1.7.0",
-    "homepage": "http://qiubaiying.github.io",
+    "homepage": "http://6shell.github.io",
     "repository": {
         "type": "git",
         "url": "https://github.com/qiubaiying/qiubaiying.github.io"
