@@ -7,12 +7,12 @@ description: "晃啊晃，就晃到头了."
 keyword: "六壳, 小屋, 六壳的小屋, 6shell, iOS, Apple, iPhone"
 url: "http://6shell.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/6shell.github.io.git" # you code repository
+github_repo: "https://github.com/6shell/6shell.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Impossible is nothing!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-6shell.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
